@@ -8,7 +8,7 @@ namespace ConsoleApp.Discuss
         {
 
 
-
+            Console.WriteLine("Hello");
 
 
 
